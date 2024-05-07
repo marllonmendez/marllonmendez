@@ -1,59 +1,11 @@
-<main style="display: flex; flex-direction: column;">
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Hello,+World!;My+name+is+Marlon%2C+and+I'm+a+Full+Stack+Developer">
-  </div>
-  <div>
-    <h2>Informações</h2>
-    <a>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marllonmendez&show_icons=true&theme=dark"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonmendez&layout=compact&langs_count=7&theme=dark"/>
-    </a>
-  </div>
-  <div style="display: flex; flex-direction: column;">
-    <h2>Projetos</h2>
-    <div style="display: flex; flex-direction: row;">
-      <a href="https://github.com/marllonmendez/customer-api">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marllonmendez&repo=customer-api&theme=dark" />
-      </a>
-      <a href="https://github.com/marllonmendez/customer-app">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marllonmendez&repo=customer-app&theme=dark" />
-      </a>
-    </div>
-    <div style="display: flex; flex-direction: row;">
-      <a href="https://github.com/marllonmendez/stories">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marllonmendez&repo=stories&theme=dark" />
-      </a>
-      <a href="https://github.com/marllonmendez/Genyus-Bank-ReactJs">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marllonmendez&repo=Genyus-Bank-ReactJs&theme=dark" />
-      </a>
-    </div>
-    <div style="display: flex; flex-direction: row;">
-      <a href="https://github.com/marllonmendez/decoderText">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marllonmendez&repo=decoderText&theme=dark" />
-      </a>
-      <a href="https://github.com/marllonmendez/numberSecret">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marllonmendez&repo=numberSecret&theme=dark" />
-      </a>
-    </div>
-  </div>
-  <div>
-    <h2>Habilidades</h2>
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-    <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-    <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-    <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-    <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-    <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-    <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  </div>
-  <div>
-    <h2>Contato</h2>
-    <a href="https://www.linkedin.com/in/marllonmendez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:marlonmendesor@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
-</main>
+# Marlon Mendes
+
+**Full Stack Developer**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Marlon%20Mendes-030712?style=flat-square&logo=Linkedin&logoColor=f5f5f5&link=https://www.linkedin.com/in/marllonmendez/)](https://www.linkedin.com/in/marllonmendez/)
+[![Gmail Badge](https://img.shields.io/badge/-marlonmendesor@gmail.com-030712?style=flat-square&logo=Gmail&logoColor=f5f5f5&link=mailto:marlonmendesor@gmail.com)](mailto:marlonmendesor@gmail.com)
+[![Portfolio](https://img.shields.io/badge/marllonmendez.vercel.app-030712?style=flat-square&logo=Vercel&logoColor=f5f5f5&link=https://marllonmendez.vercel.app)](https://marllonmendez.vercel.app)
+
+I began my journey by obtaining certifications as a Computer Network Technician in the state of Ceará. Although this specialization was not professionally practiced, over the years, as a Junior Programmer, I had the privilege of integrating projects that had a positive impact on the lives of thousands of people, demonstrating my ability in efficient solutions.
+
+Currently, I am graduating in Systems Analysis and Development at UNIFOR, with a focus on Back-end. However, I possess versatile skills that allow me to play a role on both sides, contributing to a more comprehensive understanding of system development.
