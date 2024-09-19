@@ -2,10 +2,10 @@
 
 **Full Stack Developer**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marlon%20Mendes-030712?style=flat-square&logo=Linkedin&logoColor=f5f5f5&link=https://www.linkedin.com/in/marllonmendez/)](https://www.linkedin.com/in/marllonmendez/)
-[![Gmail Badge](https://img.shields.io/badge/-marlonmendesor@gmail.com-030712?style=flat-square&logo=Gmail&logoColor=f5f5f5&link=mailto:marlonmendesor@gmail.com)](mailto:marlonmendesor@gmail.com)
-[![Portfolio](https://img.shields.io/badge/marllonmendez.vercel.app-030712?style=flat-square&logo=Vercel&logoColor=f5f5f5&link=https://marllonmendez.vercel.app)](https://marllonmendez.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-010409?style=flat-square&logo=Vercel&logoColor=f5f5f5&link=https://marllonmendez.vercel.app)](https://marllonmendez.vercel.app)
+[![Linkedin Badge](https://img.shields.io/badge/-Marlon%20Mendes-010409?style=flat-square&logo=Linkedin&logoColor=f5f5f5&link=https://www.linkedin.com/in/marllonmendez/)](https://www.linkedin.com/in/marllonmendez/)
+[![Gmail Badge](https://img.shields.io/badge/-marlonmendes.dev@gmail.com-010409?style=flat-square&logo=Gmail&logoColor=f5f5f5&link=mailto:marlonmendes.dev@gmail.com)](mailto:marlonmendes.dev@gmail.com)
 
-I began my journey by obtaining certifications as a Computer Network Technician in the state of Ceará. Although this specialization was not professionally practiced, over the years, as a Junior Programmer, I had the privilege of integrating projects that had a positive impact on the lives of thousands of people, demonstrating my ability in efficient solutions.
+I started my career by obtaining certifications as a Computer Networks Technician in the state of Ceará. Although this specialization was not practiced professionally, over the years as a Programmer, I have had the privilege of contributing to projects that positively impacted the lives of thousands of people, demonstrating my ability to deliver efficient solutions.
 
-Currently, I am graduating in Systems Analysis and Development at [Unifor](https://www.unifor.br/), with a focus on Back-end. However, I possess versatile skills that allow me to play a role on both sides, contributing to a more comprehensive understanding of system development.
+I am currently pursuing a degree in Systems Analysis and Development at [UNIFOR University of Fortaleza](https://www.unifor.br/). I play a role on both sides of development, being proficient in various programming languages and technologies, which contributes to a more comprehensive understanding of systems development
