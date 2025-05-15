@@ -5,7 +5,7 @@
 ### 👨‍💻 About me
 - Pursuing a degree in Systems Analysis and Development from the [University of Fortaleza](https://www.unifor.br/)
 - I work primarily as a Full Stack Developer
-- Open Source contributor at [BigSUS](https://bigsus-next.vercel.app/)
+- Open Source Contributor at [DataBridge](https://bigsus-next.vercel.app/)
 - Portfolio: [marllonmendez.tech](https://www.marllonmendez.tech/)
 
 ### 🛠 Technologies and tools
