@@ -1,11 +1,10 @@
 # Hi, i'm Marlon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-<img align="right" src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="200px" />
 <img src="https://komarev.com/ghpvc/?username=marllonmendez&style=flat&color=41b883" alt="Profile views" />
 
 ### 👨‍💻 About me
-- Pursuing a degree in Systems Analysis and Development from the [University of Fortaleza](https://www.unifor.br/)
+- Graduated in Systems Analysis and Development from the [University of Fortaleza](https://www.unifor.br/)
 - I work primarily as a Full Stack Developer
-- Open Source Contributor at [DataBridge](https://bigsus-next.vercel.app/)
+- Open Source Contributor at [DataBridge](https://databridge-br.vercel.app/)
 - Portfolio: [marllonmendez.tech](https://www.marllonmendez.tech/)
 
 ### 🛠 Technologies and tools
@@ -38,7 +37,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-273849?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwLDAsMjU2LDI1NiIgd2lkdGg9IjUwcHgiIGhlaWdodD0iNTBweCIgZmlsbC1ydWxlPSJub256ZXJvIj48ZyBmaWxsPSIjNDFiODgzIiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBmb250LWZhbWlseT0ibm9uZSIgZm9udC13ZWlnaHQ9Im5vbmUiIGZvbnQtc2l6ZT0ibm9uZSIgdGV4dC1hbmNob3I9Im5vbmUiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTogbm9ybWFsIj48ZyB0cmFuc2Zvcm09InNjYWxlKDUuMTIsNS4xMikiPjxwYXRoIGQ9Ik00MSw0aC0zMmMtMi43NiwwIC01LDIuMjQgLTUsNXYzMmMwLDIuNzYgMi4yNCw1IDUsNWgzMmMyLjc2LDAgNSwtMi4yNCA1LC01di0zMmMwLC0yLjc2IC0yLjI0LC01IC01LC01ek0xNywyMHYxOWgtNnYtMTl6TTExLDE0LjQ3YzAsLTEuNCAxLjIsLTIuNDcgMywtMi40N2MxLjgsMCAyLjkzLDEuMDcgMywyLjQ3YzAsMS40IC0xLjEyLDIuNTMgLTMsMi41M2MtMS44LDAgLTMsLTEuMTMgLTMsLTIuNTN6TTM5LDM5aC02YzAsMCAwLC05LjI2IDAsLTEwYzAsLTIgLTEsLTQgLTMuNSwtNC4wNGgtMC4wOGMtMi40MiwwIC0zLjQyLDIuMDYgLTMuNDIsNC4wNGMwLDAuOTEgMCwxMCAwLDEwaC02di0xOWg2djIuNTZjMCwwIDEuOTMsLTIuNTYgNS44MSwtMi41NmMzLjk3LDAgNy4xOSwyLjczIDcuMTksOC4yNnoiPjwvcGF0aD48L2c+PC9nPjwvc3ZnPg==)](https://www.linkedin.com/in/marllonmendez/)  
 
 ### ⭐ GitHub stats and most used technologies
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=marllonmendez&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marllonmendez&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=true&order=2" height="170" alt="languages graph"  />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=marllonmendez&theme=vue-dark&layout=compact&hide_title=false&custom_title=Statistics&hide_rank=true&show_icons=true&hide_border=true&card_width=350&line_height=28&include_all_commits=true&count_private=true&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marllonmendez&theme=vue-dark&layout=donut&hide_title=false&custom_title=Languages&card&hide_border=true&langs_count=5)
+
