@@ -5,7 +5,7 @@
 - Graduated in Systems Analysis and Development from the [University of Fortaleza](https://www.unifor.br/)
 - I work primarily as a Software Developer
 - Open Source Contributor at [DataBridge](https://databridge-br.vercel.app/)
-- Portfolio: [marllonmendez.tech](https://www.marllonmendez.tech/)
+- Portfolio: [marllonmendez.vercel.app](https://marllonmendez.vercel.app)
 
 ### 🛠 Technologies and tools
 ![Next.js](https://img.shields.io/badge/Next.js-273849?style=for-the-badge&logo=next.js&logoColor=41b883)
