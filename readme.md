@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About me
 - Graduated in Systems Analysis and Development from the [University of Fortaleza](https://www.unifor.br/)
-- Software Engineer at [DataBridge](https://databridge-br.vercel.app/)
+- Full Stack Developer at [DataBridge](https://databridge-br.vercel.app/)
 - Portfolio: [marllonmendez.vercel.app](https://marllonmendez.vercel.app)
 
 ### 🛠 Technologies and tools
